@@ -26,4 +26,4 @@ To predict the `Pos` (player position) using in-game performance metrics.
 This project is for educational purposes. Dataset sourced from Football Reference via Kaggle.
 
 ## Author
-[Your Name](https://github.com/yourusername)
+[Angel Diaz-Nova](https://github.com/adiaznov)
